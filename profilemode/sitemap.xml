@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://telenwang.github.io/profilemode/categories/</loc>
+    <loc>https://blog.nelettech.com/profilemode/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://telenwang.github.io/categories/"
+                href="https://blog.nelettech.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="profilemode"
-                href="https://telenwang.github.io/profilemode/categories/"
+                href="https://blog.nelettech.com/profilemode/categories/"
                 />
   </url><url>
-    <loc>https://telenwang.github.io/profilemode/</loc>
+    <loc>https://blog.nelettech.com/profilemode/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://telenwang.github.io/"
+                href="https://blog.nelettech.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="profilemode"
-                href="https://telenwang.github.io/profilemode/"
+                href="https://blog.nelettech.com/profilemode/"
                 />
   </url><url>
-    <loc>https://telenwang.github.io/profilemode/tags/</loc>
+    <loc>https://blog.nelettech.com/profilemode/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://telenwang.github.io/tags/"
+                href="https://blog.nelettech.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="profilemode"
-                href="https://telenwang.github.io/profilemode/tags/"
+                href="https://blog.nelettech.com/profilemode/tags/"
                 />
   </url>
 </urlset>

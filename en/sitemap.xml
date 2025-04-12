@@ -2,60 +2,60 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://telenwang.github.io/posts/</loc>
+    <loc>https://blog.nelettech.com/posts/</loc>
     <lastmod>2025-04-11T10:25:44+02:00</lastmod>
   </url><url>
-    <loc>https://telenwang.github.io/</loc>
+    <loc>https://blog.nelettech.com/</loc>
     <lastmod>2025-04-11T10:25:44+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="profilemode"
-                href="https://telenwang.github.io/profilemode/"
+                href="https://blog.nelettech.com/profilemode/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://telenwang.github.io/"
+                href="https://blog.nelettech.com/"
                 />
   </url><url>
-    <loc>https://telenwang.github.io/categories/blog/</loc>
+    <loc>https://blog.nelettech.com/categories/blog/</loc>
     <lastmod>2025-04-09T10:00:00-04:00</lastmod>
   </url><url>
-    <loc>https://telenwang.github.io/categories/</loc>
+    <loc>https://blog.nelettech.com/categories/</loc>
     <lastmod>2025-04-09T10:00:00-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="profilemode"
-                href="https://telenwang.github.io/profilemode/categories/"
+                href="https://blog.nelettech.com/profilemode/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://telenwang.github.io/categories/"
+                href="https://blog.nelettech.com/categories/"
                 />
   </url><url>
-    <loc>https://telenwang.github.io/posts/2025/04/10/combinedfilterpowerapps/</loc>
+    <loc>https://blog.nelettech.com/posts/2025/04/10/combinedfilterpowerapps/</loc>
     <lastmod>2025-04-09T10:00:00-04:00</lastmod>
   </url><url>
-    <loc>https://telenwang.github.io/categories/tech/</loc>
+    <loc>https://blog.nelettech.com/categories/tech/</loc>
     <lastmod>2025-04-09T10:00:00-04:00</lastmod>
   </url><url>
-    <loc>https://telenwang.github.io/archives/</loc>
+    <loc>https://blog.nelettech.com/archives/</loc>
   </url><url>
-    <loc>https://telenwang.github.io/search/</loc>
+    <loc>https://blog.nelettech.com/search/</loc>
   </url><url>
-    <loc>https://telenwang.github.io/series/</loc>
+    <loc>https://blog.nelettech.com/series/</loc>
   </url><url>
-    <loc>https://telenwang.github.io/tags/</loc>
+    <loc>https://blog.nelettech.com/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="profilemode"
-                href="https://telenwang.github.io/profilemode/tags/"
+                href="https://blog.nelettech.com/profilemode/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://telenwang.github.io/tags/"
+                href="https://blog.nelettech.com/tags/"
                 />
   </url>
 </urlset>
