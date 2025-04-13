@@ -54,5 +54,24 @@
 &lt;/table&gt;
 &lt;p&gt;The layout will be like this screen shot.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>The limitations of TRIM() in T‑SQL when cleaning/migrating data</title>
+      <link>https://blog.nelettech.com/posts/2025/04/migrating_data/</link>
+      <pubDate>Sat, 22 Feb 2025 20:33:00 +0000</pubDate>
+      <guid>https://blog.nelettech.com/posts/2025/04/migrating_data/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;In T-SQL&lt;/strong&gt;, the &lt;strong&gt;TRIM()&lt;/strong&gt; function only removes spaces (ASCII 32) and cannot remove hidden characters (such as newline characters, carriage returns, tabs, or some emojis). These characters might cause issues during data cleaning (or migration), for example:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Data imported may contain carriage return (CHAR(13)) or newline (CHAR(10)).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Data copied and pasted may contain tab characters (CHAR(9)).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Specially formatted strings may contain invisible Unicode control characters, such as certain emojis.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Common hidden characters include:&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
